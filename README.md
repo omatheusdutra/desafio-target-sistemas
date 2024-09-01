@@ -4,7 +4,7 @@
 Bem-vindo ao repositório de soluções para o desafio de recrutamento da Target Sistemas. Este repositório contém as respostas para os desafios propostos utilizando HTML, CSS e JavaScript.
 
 Para visualizar a página com os resultados em funcionamento, clique no link. 
-# ➡️  [**Visualizar**](https://omatheusdutra.github.io/desafio-target-sistemas).
+# ➡️  [**Visualizar**](https://omatheusdutra.github.io/desafio-target-sistemas/).
 
 ## Índice
 
