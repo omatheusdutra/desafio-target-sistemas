@@ -29,7 +29,7 @@ imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-**Solução:** [Veja o resultado da Soma](https://github.com:)
+**Solução:** [Veja o resultado da Soma](https://github.com/omatheusdutra/desafio-target-sistemas/blob/main/scripts/sumResult.js)
 
 ## Questão 2: Sequência de Fibonacci
 
