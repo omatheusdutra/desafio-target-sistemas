@@ -39,7 +39,7 @@ Escreva um programa que calcule a sequência de Fibonacci e verifique se um núm
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-**Solução:** [Veja o código para verificar Fibonacci](https:)
+**Solução:** [Veja o código para verificar Fibonacci](https://github.com/omatheusdutra/desafio-target-sistemas/blob/main/scripts/isFibonacci.js)
 
 
 ## Questão 3: Estatísticas de Faturamento
@@ -55,7 +55,7 @@ Dado um vetor com o faturamento diário de uma distribuidora, o objetivo é calc
 - Use JSON ou XML como fonte dos dados.
 - Ignore os dias sem faturamento (finais de semana e feriados) ao calcular a média.
 
-**Solução:** [Veja o código para estatísticas de faturamento](https:)
+**Solução:** [Veja o código para estatísticas de faturamento](https://github.com/omatheusdutra/desafio-target-sistemas/blob/main/scripts/status.js)
 
 
 ## Questão 4: Percentual de Representação por Estado
@@ -70,7 +70,7 @@ Dado o valor de faturamento mensal por estado:
 
 Escreva um programa que calcule o percentual de representação de cada estado no valor total mensal da distribuidora.
 
-**Solução:** [Veja o código para calcular a porcentagem por estado](https://github.com/FelipeManchester/estagio-target-sistemas/blob/master/scripts/stateShare.js)
+**Solução:** [Veja o código para calcular a porcentagem por estado](https://github.com/omatheusdutra/desafio-target-sistemas/blob/main/scripts/stateRepresentation.js)
 
 
 ## Questão 5: Inversão de String
@@ -80,6 +80,6 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-**Solução:** [Veja a inversão de String](https://github.com/)
+**Solução:** [Veja a inversão de String](https://github.com/omatheusdutra/desafio-target-sistemas/blob/main/scripts/reverse.js)
 
 
